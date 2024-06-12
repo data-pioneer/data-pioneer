@@ -9,7 +9,7 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 
 * I'm from India.
 * You can reach me at [Jasika.lpu@gmail.com](mailto:Jasika.lpu@gmail.com)
-* I’m currently working on Generative AI, MLOPS, and Data Analytics Projects.
+* I’m currently working on MLOPS, Generative AI, and Data Analytics Projects.
   
 <br> 
 
@@ -32,16 +32,14 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 | 2 | **Chest-Disease-Classification-from-Chest-CT-Scan-Image** | Deep Learning Computer Vision | [Link](https://github.com/data-pioneer/MLops-Chest-Disease-Classification-from-Chest-CT-Scan-Image-.git) | Yes |
 | 3 | **Safety Gear Detection System** | Object Detection using YoloV7 | [Link](https://github.com/data-pioneer/MLops-Industry-Safety-Detection-using-Yolov7.git) | Yes |
 | 4 | **Named Entity Recognition** | Huggingface BERT LLM | [Link](https://github.com/data-pioneer/MLops-Name-Entity-Recognition-End-to-End-main.git) | Yes |
-| 5 | **NMultilingual-AI-Assistant** | Gemini's LLM | [Link](https://github.com/data-pioneer/Gen-AI-Multilingual-AI-Assistant-main.git) | Yes |
+| 5 | **Multilingual-AI-Assistant** | Gemini's LLM | [Link](https://github.com/data-pioneer/Gen-AI-Multilingual-AI-Assistant-main.git) | Yes |
 | 6 | **More Projects** | Please click on Repo link| [Link](https://github.com/data-pioneer?tab=repositories) | Yes/No |
 
-<br> 
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=data-pioneer&show_icons=true&locale=en&layout=compact" alt="data-pioneer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=data-pioneer&show_icons=true&locale=en" alt="data-pioneer" /></p>
-
-<br> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=data-pioneer&" alt="data-pioneer" /></p>
 
