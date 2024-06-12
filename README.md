@@ -23,7 +23,8 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 * MLOps and Generative AI 
 
 <br> 
-### Projects [More Projects](https://github.com/data-pioneer?tab=repositories)
+### Projects [Link](https://github.com/data-pioneer/Gen-AI-Multilingual-AI-Assistant-main.git)
+
 
 | S.No | Project Name | Specification | Repo Link | End-to-End |
 |---|---|---|---|---|
