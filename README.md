@@ -10,6 +10,18 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 *     You can reach me at [Jasika.lpu@gmail.com](mailto:Jasika.lpu@gmail.com)
 *     I’m currently working Generative AI, MLOPS, Data Analytics Projects.
 
+Data Scientist/MLOPs Engineer
+-----------------------------
+
+An accomplished researcher with 10+ years of experience in the life sciences focused on R&D, data analytics, visualization and data science. I am passionate about assisting stakeholders to develop, validate, deploy AI/ML models and automation by implementing MLOPs principles.
+
+* 🌍  I'm based in DesMoines, Iowa
+* ✉️  You can contact me at [maldatasci@gmail.com](mailto:maldatasci@gmail.com)
+* 🧠  I'm currently learning Generative AI
+* 🤝  I'm open to collaborating on Generative AI projects
+* ⚡  I'm the happiest person on planet earth
+
+<br> 
 
 ### I have technical experience in:
 * Mobile Apps Development
