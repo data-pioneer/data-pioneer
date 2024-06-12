@@ -22,8 +22,11 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 * Natural Language Processing 
 * MLOps and Generative AI 
 
+<br> 
 
-### Projects  [Repo Link](https://github.com/data-pioneer?tab=repositories)
+### Projects  
+[Repo Link](https://github.com/data-pioneer?tab=repositories)
+
 | S.No | Project Name | Specification | Repo Link | End-to-End |
 |---|---|---|---|---|
 | 1 | **MLOPS-US-Visa-Approval-Prediction** | Binary Classification | [Link](https://github.com/data-pioneer/MLOPS-US-Visa-Approval-Prediction.git) | Yes |
@@ -32,11 +35,15 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 | 4 | **Named Entity Recognition** | Huggingface BERT LLM | [Link](https://github.com/data-pioneer/MLops-Name-Entity-Recognition-End-to-End-main.git) | Yes |
 | 5 | **NMultilingual-AI-Assistant** | Gemini's LLM | [Link](https://github.com/data-pioneer/Gen-AI-Multilingual-AI-Assistant-main.git) | Yes |
 
-
+<br> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=data-pioneer&show_icons=true&locale=en&layout=compact" alt="data-pioneer" /></p>
 
+<br> 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=data-pioneer&show_icons=true&locale=en" alt="data-pioneer" /></p>
+
+<br> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=data-pioneer&" alt="data-pioneer" /></p>
 
