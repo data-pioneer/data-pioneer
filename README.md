@@ -23,8 +23,7 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 * MLOps and Generative AI 
 
 
-### Projects 
-
+### Projects  [Link](https://github.com/data-pioneer/Gen-AI-Multilingual-AI-Assistant-main.git)
 | S.No | Project Name | Specification | Repo Link | End-to-End |
 |---|---|---|---|---|
 | 1 | **MLOPS-US-Visa-Approval-Prediction** | Binary Classification | [Link](https://github.com/data-pioneer/MLOPS-US-Visa-Approval-Prediction.git) | Yes |
