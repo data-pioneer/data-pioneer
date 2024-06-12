@@ -2,13 +2,14 @@
 
 <h1>Hi! Nice to see you.</h1>
 <h1 align="center">I'm Jaspreet </h1>
-**Data Scientist/Experienced Mobile App Developer**
+
+### Data Scientist/Experienced Mobile App Developer
 
 A former Mobile App Developer with 4.6 years of experience who embraced a transformative journey into Artificial Intelligence. 
 
-*     I'm from India.
-*     You can reach me at [Jasika.lpu@gmail.com](mailto:Jasika.lpu@gmail.com)
-*     I’m currently working Generative AI, MLOPS, Data Analytics Projects.
+* I'm from India.
+* You can reach me at [Jasika.lpu@gmail.com](mailto:Jasika.lpu@gmail.com)
+* I’m currently working Generative AI, MLOPS, Data Analytics Projects.
   
 <br> 
 
