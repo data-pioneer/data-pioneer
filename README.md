@@ -26,9 +26,9 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 
 | S.No | Project Name | Specification | Repo Link | End-to-End |
 |---|---|---|---|---|
-| 1 | **MLOPS-US-Visa-Approval-Prediction** | MLops Binary Classification | [https://github.com/data-pioneer/MLOPS-US-Visa-Approval-Prediction.git](URL your_repo_1) | Yes |
-| 2 | **Your Project Name 2** | Brief description of functionalities | [Link to your repository 2](URL your_repo_2) | Yes/No |
-| 3 | **Your Project Name 3** | Brief description of functionalities | [Link to your repository 3](URL your_repo_3) | Yes/No |
+| 1 | **MLOPS-US-Visa-Approval-Prediction** | Binary Classification | [Link](https://github.com/data-pioneer/MLOPS-US-Visa-Approval-Prediction.git) | Yes |
+| 2 | **Chest-Disease-Classification-from-Chest-CT-Scan-Image** | Deep Learning Computer Vision | [Link](https://github.com/data-pioneer/MLops-Chest-Disease-Classification-from-Chest-CT-Scan-Image-.git) | Yes |
+| 3 | **Safety Gear Detection System** | Object Detection using YoloV7 | [Link](https://github.com/data-pioneer/MLops-Industry-Safety-Detection-using-Yolov7.git) | Yes |
 
 
 
