@@ -25,7 +25,6 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 <br> 
 
 ### Projects  
-[Repo Link](https://github.com/data-pioneer?tab=repositories)
 
 | S.No | Project Name | Specification | Repo Link | End-to-End |
 |---|---|---|---|---|
@@ -34,12 +33,11 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 | 3 | **Safety Gear Detection System** | Object Detection using YoloV7 | [Link](https://github.com/data-pioneer/MLops-Industry-Safety-Detection-using-Yolov7.git) | Yes |
 | 4 | **Named Entity Recognition** | Huggingface BERT LLM | [Link](https://github.com/data-pioneer/MLops-Name-Entity-Recognition-End-to-End-main.git) | Yes |
 | 5 | **NMultilingual-AI-Assistant** | Gemini's LLM | [Link](https://github.com/data-pioneer/Gen-AI-Multilingual-AI-Assistant-main.git) | Yes |
+| 6 | **More Projects** | Please click on Repo link| [Link](https://github.com/data-pioneer?tab=repositories) | Yes/No |
 
 <br> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=data-pioneer&show_icons=true&locale=en&layout=compact" alt="data-pioneer" /></p>
-
-<br> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=data-pioneer&show_icons=true&locale=en" alt="data-pioneer" /></p>
 
