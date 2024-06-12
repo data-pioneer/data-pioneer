@@ -22,13 +22,15 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 * Natural Language Processing 
 * MLOps and Generative AI 
 
-## Projects
+### Projects
 
 | S.No | Project Name | Specification | Repo Link | End-to-End |
 |---|---|---|---|---|
 | 1 | **MLOPS-US-Visa-Approval-Prediction** | Binary Classification | [Link](https://github.com/data-pioneer/MLOPS-US-Visa-Approval-Prediction.git) | Yes |
 | 2 | **Chest-Disease-Classification-from-Chest-CT-Scan-Image** | Deep Learning Computer Vision | [Link](https://github.com/data-pioneer/MLops-Chest-Disease-Classification-from-Chest-CT-Scan-Image-.git) | Yes |
 | 3 | **Safety Gear Detection System** | Object Detection using YoloV7 | [Link](https://github.com/data-pioneer/MLops-Industry-Safety-Detection-using-Yolov7.git) | Yes |
+| 4 | **Named Entity Recognition** | Huggingface BERT LLM | [Link](https://github.com/data-pioneer/MLops-Name-Entity-Recognition-End-to-End-main.git) | Yes |
+| 5 | **NMultilingual-AI-Assistant** | Gemini's LLM | [Link](https://github.com/data-pioneer/Gen-AI-Multilingual-AI-Assistant-main.git) | Yes |
 
 
 
