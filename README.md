@@ -22,9 +22,8 @@ A former Mobile App Developer with 4.6 years of experience who embraced a transf
 * Natural Language Processing 
 * MLOps and Generative AI 
 
-<br> 
-### Projects 
 
+### Projects 
 
 | S.No | Project Name | Specification | Repo Link | End-to-End |
 |---|---|---|---|---|
